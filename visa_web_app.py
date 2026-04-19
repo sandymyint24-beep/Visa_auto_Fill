@@ -9,7 +9,7 @@ import os
 import datetime
 from PIL import Image
 
-st.set_page_config(page_title="Visa Automation v179.5", layout="wide")
+st.set_page_config(page_title="Visa Automation", layout="wide")
 
 # --- Notification Pop-up Function ---
 @st.dialog("အရေးကြီးသော အသိပေးချက် (Important Notice)")
